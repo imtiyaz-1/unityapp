@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314232435258",
+    "firebase_url": "https://solidstealth.firebaseio.com",
+    "project_id": "solidstealth",
+    "storage_bucket": "solidstealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314232435258:android:b190d7f5af616cdabd3b03",
+        "android_client_info": {
+          "package_name": "com.hiddeninfinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314232435258-nfilotkd5c71o40s6k0dq8n9m7bla65c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnotbwL5GRgLFdvWQph98y3b1wusNG2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314232435258-nfilotkd5c71o40s6k0dq8n9m7bla65c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314232435258-29o4qfvpnj2u0ke6n46q8p0mgieqvfnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hiddeninfinity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
